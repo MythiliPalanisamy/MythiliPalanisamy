@@ -1,9 +1,14 @@
-### Hi there 👋
+![name](images/name.png)
+📫 [![Gmail Badge](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=Gmail&logoColor=white&color=12BDBD)](mythilipsy@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mythili-aug/)
 
-- 🌟 I'm Mythili Palanisamy
-- 🌱 I’m currently learning data pipelines
-- 👯 I’m looking to collaborate on python projects
-- 📫 How to reach me: [Gmail](mythilipsy@gmail.com) [LinkedIn](https://www.linkedin.com/in/mythili-aug/)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a coding enthusiast and a proud mom! 🤱
+## Welcome to my GitHub profile,
+I am Mythili, a former System Engineer 🖥️ learning data pipelines through intensive Bootcamp course and eagerly seeking opportunities in the field of Data Engineering / Science. Explore my projects, collaberations and contributions.  
+
+⚡ Fun fact: I'm a coding enthusiast and a proud mom! 🤱
+
+
+
+
+
 
