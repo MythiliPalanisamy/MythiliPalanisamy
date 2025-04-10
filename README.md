@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mythili-aug/)
 
 ## Welcome to my GitHub profile,
-I am Mythili, worked as Software Developer Intern, a former System Engineer 🖥️ learned data pipelines through intensive Bootcamp course and eagerly seeking opportunities in the field of Data Engineering / Science. Explore my projects, collaberations and contributions.  
+I am Mythili, currently working as Data Scientist at edenceHealth NV. I worked as Software Developer Intern, a former System Engineer 🖥️ learned data pipelines through intensive Bootcamp course and eagerly seeking opportunities in the field of Data Engineering / Science. Explore my projects, collaberations and contributions.  
 
 Fun fact: I'm a coding enthusiast and a proud mom! 🤱
 
